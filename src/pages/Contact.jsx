@@ -28,6 +28,14 @@ const Contact = () => {
     setIsLoading(true);
     setCurrentAnimation("hit");
 
+    // check formdata before submit
+    if (data.name === "" || data.email === "" || data.message === "") {
+      setIsLoading(false);
+      setCurrentAnimation("idle");
+      toast.error("Please fullfill the required input");
+      return;
+    }
+
     // deal with the emails
     emailjs
       .send(
