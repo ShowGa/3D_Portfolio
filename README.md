@@ -1,6 +1,3 @@
-# 3D Portfolio Website
-Link : https://threed-portfolio-h415.onrender.com
-
 ## 3D 個人作品集網頁 - 空中之島
 Link : <a href="https://threed-portfolio-h415.onrender.com" target="_blank">ShowGa Portfolio Website</a>
 
