@@ -1,11 +1,44 @@
 # 3D Portfolio Website
 Link : https://threed-portfolio-h415.onrender.com
 
-# React + Vite
+## 3D 個人作品集網頁 - 空中之島
+Link : <a href="https://threed-portfolio-h415.onrender.com" target="_blank">ShowGa Portfolio Website</a>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 技術
+- React.js
+- Three.js
+- React Three Fiber
+- React Three Drei
+- Email JS
+- Vite
+- Tailwind CSS
 
-Currently, two official plugins are available:
+## 介紹
+- 可移動3D物件
+- 透過實作這個項目來製作出漂亮的個人作品集網頁
+- 學習有關Three.js的相關技術
+- 部署至render.com
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 感謝
+這個項目來自<a href="https://github.com/adrianhajdin" target="_blank">Adrian Hajdin - JS Mastery</a>的教學。
+<br>
+JS Mastery Official Youtube Channel : <a href="https://www.youtube.com/@javascriptmastery" target="_blank">LINK</a>
+
+
+## 3D Portfolio Website - Sky Island
+Link : <a href="https://threed-portfolio-h415.onrender.com" target="_blank">ShowGa Portfolio Website</a>
+
+## Tech stack
+- React.js
+- Three.js
+- React Three Fiber
+- React Three Drei
+- Email JS
+- Vite
+- Tailwind CSS
+
+## Introduction
+- Movable 3D objects
+- Create an beautiful 3D website by hands-on experience
+- Learning the technique about Three.js
+- Depoly to the render.com
