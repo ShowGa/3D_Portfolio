@@ -2,6 +2,7 @@
 Link : <a href="https://threed-portfolio-h415.onrender.com" target="_blank">ShowGa Portfolio Website</a>
 
 ## 技術
+[![3-Dportfolio-drawio.png](https://i.postimg.cc/J0MnPt1M/3-Dportfolio-drawio.png)](https://postimg.cc/5YKbt4YR)
 - React.js
 - Three.js
 - React Three Fiber
