@@ -45,7 +45,7 @@ const Contact = () => {
           from_name: formData.name,
           to_name: "ShowGa",
           from_email: formData.email,
-          to_email: "peter1997217123@gmail.com",
+          to_email: "",
           message: formData.message,
         },
         import.meta.env.VITE_APP_EMAILJS_PUBLIC_ID
